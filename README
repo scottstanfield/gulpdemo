@@ -1,1 +1,6 @@
 First pass at understanding what gulp can do
+
+% npm install
+% gulp
+
+Now examine the contents of the new 'build' directory. 
